@@ -1,5 +1,21 @@
 ## Soda Water Software Ray Tracer
 
+This is the ray tracer that I built in my 3d graphics class for
+graduate school.  The project was written in C++ and used Qt for
+the drawing library (which, in retospect, was probably overkill).
+
+I have not attempted to rebuild this project as I don't really
+want to reinstall the Qt libraries and I don't think I would
+get much from building it.  Instead I'm attempting to rebuild
+a ray tracer in Go in the Ray The Tracer repo.
+
+Even though I did not rebuild the project I did find a collection
+of images I created from this project which are in the [images](images)
+directory.  The rest of this document is mostly untouched from when
+I initially worked on this
+
+--------
+
 Written for QT 2.3.1 ... but should be upwards compatible to 3.0.
 
 License
